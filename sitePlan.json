@@ -1,0 +1,42 @@
+{
+  "businessName": "First Rural Multiconcept Solutions",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Innovative Manufacturing Solutions for Rural Development",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "First Rural Multiconcept Solutions - Leading the Way in Manufacturing Excellence. Based in Langtang South, we deliver innovative manufacturing solutions that drive rural development and economic growth across Plateau State and beyond.",
+      "imagePrompt": "Modern Nigerian manufacturing facility exterior with metal structures and equipment, set against the scenic landscape of Langtang South Plateau State, clear blue sky, professional industrial photography, warm golden hour lighting, workers in safety gear visible in background",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "First Rural Multiconcept Solutions is a dynamic manufacturing company committed to bridging the gap between rural communities and industrial advancement. Operating from our facility at Turaki Market in Langtang South, we specialize in providing comprehensive manufacturing solutions tailored to meet the unique needs of businesses and communities across Plateau State.\n\nOur multiconcept approach allows us to serve diverse sectors with flexibility and expertise. We combine modern manufacturing techniques with an understanding of local needs, creating products and solutions that drive economic development in rural areas. Our commitment to quality, innovation, and community development sets us apart as a trusted partner for businesses seeking reliable manufacturing services.\n\nWith deep roots in Langtang South, we understand the challenges and opportunities within rural manufacturing. We invest in local talent, source materials responsibly, and contribute to the economic empowerment of our community while maintaining the highest standards of production excellence.",
+      "imagePrompt": "Interior of a Nigerian manufacturing workshop showing diverse production activities, Nigerian workers collaborating around manufacturing equipment, natural lighting through large windows, organized workspace with raw materials and finished products, authentic African industrial setting, documentary style photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Manufacturing Solutions: We provide bespoke manufacturing services tailored to your specific requirements, from concept development to final production.\n\nProduct Development: Our team works with clients to develop new products, offering design consultation, prototyping, and full-scale manufacturing capabilities.\n\nQuality Assurance: Every product undergoes rigorous quality control processes to ensure it meets industry standards and client specifications.\n\nSupply Chain Management: We manage the entire production process, including material sourcing, production scheduling, and timely delivery.\n\nConsultancy Services: Leverage our manufacturing expertise to optimize your production processes, reduce costs, and improve efficiency.\n\nRural Manufacturing Support: We provide training, equipment support, and technical assistance to small-scale manufacturers in rural communities.",
+      "imagePrompt": "Grid layout showing various manufacturing processes in Nigeria - welding sparks, precision cutting, quality inspection, material handling, packaging area, each scene showing Nigerian workers in professional work environments, bright industrial lighting, modern equipment",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? First Rural Multiconcept Solutions is here to help you achieve your production goals.\n\nVisit us at our facility in Turaki Market, Langtang South, or reach out via phone or WhatsApp. Our team is ready to provide expert consultation and develop customized solutions for your business.\n\nWhether you're a small business looking to scale production or an established company seeking a reliable manufacturing partner in Plateau State, we're committed to delivering excellence in every project.",
+      "imagePrompt": "Professional Nigerian business contact scene showing a modern office reception area with traditional Plateau State cultural elements, welcoming atmosphere, Nigerian receptionist at desk with computer, comfortable waiting area, natural light, plants, clean modern aesthetic with local character",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 703 075 1986",
+    "email": "info@firstruralmulticoncept.ng",
+    "address": "Turaki Market, Langtang South, Plateau State, Nigeria",
+    "whatsapp": "https://wa.me/2347030751986"
+  }
+}
